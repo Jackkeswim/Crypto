@@ -1,8 +1,7 @@
 {
   "name": "ES Coin",
   "symbol": "ESC",
-  "image": "https://github.com/Jackkeswim/Crypto/blob/main/Logo.png?raw=true",
-  "uri": "https://github.com/Jackkeswim/Crypto/blob/main/metadata.json"
+  "uri": "https://raw.githubusercontent.com/Jackkeswim/Crypto/main/Logo.png"
 }
 
 
