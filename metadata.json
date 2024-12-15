@@ -2,6 +2,4 @@
   "name": "ES Coin",
   "symbol": "ESC",
   "uri": "https://raw.githubusercontent.com/Jackkeswim/Crypto/main/Logo.png",
-  "seller_fee_basis_points": 500,
-  "creators": null
 }
